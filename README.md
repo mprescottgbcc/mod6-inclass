@@ -7,3 +7,4 @@
 
 - Meg Prescott
 - Timothy Subroto
+- Bren Giles
