@@ -9,3 +9,4 @@
 - Timothy Subroto
 - Bren Giles
 - Ethan Lotz
+- Eric Nguyen
